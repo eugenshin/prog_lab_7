@@ -1,0 +1,13 @@
+﻿  Main.cpp
+  angle.cpp
+C:\Users\Evgeniy\source\repos\prog_lab_4\angle.cpp(22,236): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  circle.cpp
+C:\Users\Evgeniy\source\repos\prog_lab_4\circle.cpp(24,22): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\Evgeniy\source\repos\prog_lab_4\circle.cpp(29,13): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  line.cpp
+  point.cpp
+C:\Users\Evgeniy\source\repos\prog_lab_4\point.cpp(22,13): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  segments.cpp
+  triangle.cpp
+  Создание кода...
+  prog_lab_4.vcxproj -> C:\Users\Evgeniy\source\repos\prog_lab_4\x64\Debug\prog_lab_4.exe
